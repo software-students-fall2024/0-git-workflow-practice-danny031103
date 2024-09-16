@@ -6,3 +6,7 @@ https://www.forbes.com/sites/forbes-engineering/2023/12/07/ais-impact-in-its-fir
 
 # Paragraph
 This article deals with the presence of AI in modern software engineering and the changes that have come about in the first few years of this dynamic. I found it particularly interesting because it mentioned various things I hadn't really thought of such as how big of an impact its had on the talent search within the field. This directly applies to me and my classmates so it is interesting to see that we are searching for jobs at a time when companies are still trying to figure out how to go about hiring. Also, there was a mention of the rise of AI startups which excite me since they create more diverse opportunities for jobs in the field.
+
+# comment 
+
+After reviewing this article and dannys comments, I have to say it was a very interesting read as it deals with the impact AI will have on software engineering which will not only affect the near future but as well mine and dannys future in the Software engineering world. This has made me feel both scared but excited at the same time as we are witnessing the devolpment of AI.  
